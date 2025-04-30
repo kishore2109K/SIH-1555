@@ -18,7 +18,7 @@ A web-based platform that provides an interactive and immersive experience of a 
 
 ## Proposed Solution / Architecture Diagram
 
-![Uploading ChatGPT Image Apr 30, 2025, 11_07_29 AM.png…]()
+![img](https://github.com/user-attachments/assets/2f084a16-09c4-4b69-afb4-b66d17b658dd)
 
 ## Use Cases
 
