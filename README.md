@@ -48,35 +48,23 @@ A web-based platform that provides an interactive and immersive experience of a 
 
 ## Dependencies
 🔹 Software & Libraries
-React.js, Three.js or Babylon.js
-
-Node.js, Express.js
-
-MongoDB driver or Mongoose
-
-AWS SDK (if using S3), or Firebase SDK
-
-React Router, Axios, Framer Motion (for UI/UX)
-
-Multer (for file upload in Node backend)
-
-Cloudinary (optional for image hosting)
+* React.js, Three.js or Babylon.js
+* Node.js, Express.js
+* MongoDB driver or Mongoose
+* AWS SDK (if using S3), or Firebase SDK
+* React Router, Axios, Framer Motion (for UI/UX)
+* Multer (for file upload in Node backend)
+* Cloudinary (optional for image hosting)
 
 🔹 Hardware / External
-3D model design software (Blender)
-
-High-quality audio/video equipment (for content creation)
-
-Cloud hosting accounts (AWS, Firebase, etc.)
+* 3D model design software (Blender)
+* High-quality audio/video equipment (for content creation)
+* Cloud hosting accounts (AWS, Firebase, etc.)
 
 🔹 Human Resource
-Frontend Developer
-
-Backend Developer
-
-3D Modeler / Multimedia Creator
-
-Content Writer (for plant data and AYUSH info)
-
-UI/UX Designer
+* Frontend Developer
+* Backend Developer
+* 3D Modeler / Multimedia Creator
+* Content Writer (for plant data and AYUSH info)
+* UI/UX Designer
 
